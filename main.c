@@ -18,7 +18,6 @@ int main() {
 
 
 
-
 /// Code for colored image ///
 //////////////////////////////
 
